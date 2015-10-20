@@ -34,5 +34,8 @@
     "send-data": "^7.0.0",
     "st": "^0.5.4",
     "tachyons": "^1.2.0"
+  },
+  "devDependencies": {
+    "colors.css": "^2.3.0"
   }
 }
